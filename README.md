@@ -1,27 +1,91 @@
-# 💫 About Me:
-🔭 Hi , This is Muhammad Zohaib<br>👯 I’m looking to collaborate on AR , VR<br>🌱 I’m currently learning Java Scripts , web 3.0<br>💬 Ask me about anything<br>⚡ Fun fact is "Never going back"
+<h1 align="center">🚀 Muhammad Zohaib – Full Stack Mobile Developer (Flutter / Android / AI/ML)</h1>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zohaib.256) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zohaib.778) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaib1313) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zohaib1313&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zohaib1313&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib1313&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zohaib1313&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<p align="center">
+  <b>Lahore / Islamabad | 5+ Years Experience | AI-integrated Flutter Expert</b><br>
+  <a href="https://zohaib1313.github.io/vcard-personal-portfolio/">🌐 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/zohaib1313/">🔗 LinkedIn</a> |
+  <a href="https://github.com/zohaib1313">💻 GitHub</a> |
+  <a href="mailto:mianzohaibiftikhar@gmail.com">📧 Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zohaib1313&icon=6&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 About Me
+
+- 🎯 Full-time Senior Flutter/Android Engineer with 5+ years of experience  
+- 🤖 Building intelligent mobile apps with AI/ML: TFLite, Whisper, PaddleOCR  
+- 📱 Delivered 50+ production apps (Govt, commercial, enterprise)  
+- 🧠 Special interest in LLMs, OCR, GenAI, Voice AI  
+- 🛠️ Skilled in Flutter, Kotlin, Dart, Python, Firebase, AWS, Riverpod, Bloc  
+
+---
+
+## 📈 Career Highlights
+
+- 🛰️ IoT-enabled apps for drones & scanning systems  
+- 🏢 Led Flutter team at Evamp & Saanga on nationwide products  
+- 🛒 Built scalable e-commerce and finance apps in Flutter  
+- 🧩 Created animations, custom UI kits, reusable widgets  
+- 🤝 Delivered MVPs in <4 weeks from design to deployment  
+
+---
+
+## 🧠 Skill Dashboard
+
+| Category         | Stack                                                                                                                                         |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 💻 Languages      | Dart, Java, Kotlin, Python, JavaScript                                                                                                       |
+| 🚀 Frameworks     | Flutter (Mobile/Web/Desktop), Android SDK, Riverpod, Bloc, GetX, Node.js, Express.js                                                        |
+| ☁️ Cloud/Backend  | Firebase, AWS (Cognito, S3, Lambda), Google Cloud, REST APIs, GraphQL                                                                        |
+| 🔐 DevOps         | GitHub Actions, CI/CD, Docker (basic), Play Store, App Store                                                                                 |
+| 🧠 AI/ML          | TensorFlow Lite, Whisper, PaddleOCR, LangGraph                                                                                               |
+| 🎨 Design/Tools   | Figma, Adobe InDesign, Firebase Analytics                                                                                                    |
+
+---
+
+## 🏆 Achievements
+
+| 📊 Metric                       | 💯 Value                          |
+|--------------------------------|-----------------------------------|
+| 📱 Published Apps              | 50+                               |
+| 🧑‍🤝‍🧑 Teams Led                | 5+ engineers                      |
+| 🏛️ Govt Projects Delivered     | 3 major deployments               |
+| 📈 Downloads                   | 100,000+                          |
+| 🧠 AI Features Integrated      | Voice AI, OCR, LLM Chat Agents    |
+| ⚡ MVP Launch Time             | Less than 4 weeks                 |
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zohaib1313&theme=radical&show_icons=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaib1313&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib1313&theme=radical&layout=compact" height="150"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- **Zama KP** – Vehicle/tax management (Govt of KPK) → [Play Store](https://apkcombo.com/zama-kp/com.kpexcisetaxation.zamakp/)
+- **ETO** – Property Tax Payment → [Play Store](https://play.google.com/store/apps/details?id=com.vehicleinspectionapp.kp&hl=en)
+- **Aitmad Store** – Nationwide e-commerce platform → [Play Store](https://play.google.com/store/apps/details?id=com.aitmadonlinestore.app)
+- **SALAM** – Telecom Subscription Manager (KSA) → [Website](https://salam.sa/)
+- **Agrilift** – AI-powered drone farming tech → [LinkedIn](https://www.linkedin.com/company/agrilift)
+- **Le Chocola POS** – UAE-based restaurant POS → [Play Store](https://play.google.com/store/apps/details?id=lechocola.android.app)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaib1313)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/zohaib1313)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zohaib.778)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zohaib.256)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=zohaib1313&icon=6&color=12" />
+</p>
