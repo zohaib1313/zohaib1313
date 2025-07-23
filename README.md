@@ -95,9 +95,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=zohaib1313&icon=0&color=0" />
-</p>
 
 
 ---
@@ -111,6 +108,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=zohaib1313&icon=6&color=12" />
-</p>
+![](https://komarev.com/ghpvc/?username=zohaib1313&color=green)
+
