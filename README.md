@@ -86,15 +86,18 @@
 - **Le Chocola POS** – UAE-based restaurant POS → [Play Store](https://play.google.com/store/apps/details?id=lechocola.android.app)
 
 ---
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammad Zohaib&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zohaib1313&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muhammad Zohaib&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=zohaib1313&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Muhammad Zohaib&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=zohaib1313&icon=0&color=0" />
+</p>
+
 
 ---
 
