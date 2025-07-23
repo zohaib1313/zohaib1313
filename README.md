@@ -70,7 +70,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zohaib1313&theme=radical&show_icons=true" height="150"/>
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=zohaib1313)]"/>
+<img src="https://streak-stats.demolab.com?user=zohaib1313&theme=highcontrast" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib1313&theme=radical&layout=compact" height="150"/>
 </p>
 
