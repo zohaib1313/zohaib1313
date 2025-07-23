@@ -1,7 +1,5 @@
 <h1 align="center">🚀 Muhammad Zohaib – Full Stack Mobile Developer (Flutter / Android / AI/ML)</h1>
 
-# 💫 About Me:
-🎯 Full-time Senior Flutter/Android Engineer with 5+ years of experience<br>🤖 Building intelligent mobile apps with AI/ML: TFLite, Whisper, PaddleOCR<br>📱 Delivered 50+ production apps (Govt, commercial, enterprise)<br>🧠 Special interest in LLMs, OCR, GenAI, Voice AI<br>🛠️ Skilled in Flutter, Kotlin, Dart, Python, Firebase, AWS, Riverpod, Bloc
 
 <p align="center">
   <b>Lahore / Islamabad | 5+ Years Experience | AI-integrated Flutter Expert</b><br>
@@ -21,6 +19,7 @@
 ---
 
 ## 💡 About Me
+Full-time Senior Flutter/Android Engineer with 5+ years of experience<br>🤖 Building intelligent mobile apps with AI/ML: TFLite, Whisper, PaddleOCR<br>📱 Delivered 50+ production apps (Govt, commercial, enterprise)<br>🧠 Special interest in LLMs, OCR, GenAI, Voice AI<br>🛠️ Skilled in Flutter, Kotlin, Dart, Python, Firebase, AWS, Riverpod, Bloc
 
 - 🎯 Full-time Senior Flutter/Android Engineer with 5+ years of experience  
 - 🤖 Building intelligent mobile apps with AI/ML: TFLite, Whisper, PaddleOCR  
