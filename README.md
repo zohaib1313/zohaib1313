@@ -19,8 +19,6 @@
 ---
 
 ## 💡 About Me
-Full-time Senior Flutter/Android Engineer with 5+ years of experience<br>🤖 Building intelligent mobile apps with AI/ML: TFLite, Whisper, PaddleOCR<br>📱 Delivered 50+ production apps (Govt, commercial, enterprise)<br>🧠 Special interest in LLMs, OCR, GenAI, Voice AI<br>🛠️ Skilled in Flutter, Kotlin, Dart, Python, Firebase, AWS, Riverpod, Bloc
-
 - 🎯 Full-time Senior Flutter/Android Engineer with 5+ years of experience  
 - 🤖 Building intelligent mobile apps with AI/ML: TFLite, Whisper, PaddleOCR  
 - 📱 Delivered 50+ production apps (Govt, commercial, enterprise)  
